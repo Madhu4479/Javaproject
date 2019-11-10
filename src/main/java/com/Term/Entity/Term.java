@@ -11,7 +11,6 @@ import javax.persistence.Table;
 @Table(name="terms")
 public class Term {
 	@Id
-	
 	@Column(name="Id")
 	private int id;
 	@Column(name="TermName")
