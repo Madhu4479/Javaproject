@@ -39,8 +39,6 @@ public class TermTest {
 		ts.getAllTerms();
 		assertEquals("got All Terms",ts.getAllTerms());
 		
-		
-	
 	}
 	*/
 	@Test
